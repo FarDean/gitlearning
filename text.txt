@@ -1,0 +1,8 @@
+git init
+git add <file name>
+git commit -m "some message"
+git remote add origin git@github.com:FarDean/gitlearning.git
+git push
+///////////
+git pull origin master --allow-unrelated-histories
+git push
